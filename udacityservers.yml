@@ -1,6 +1,6 @@
 Description: 
     Dreiby Giron / Udactity project 2
-    This file is for deploy all the ingrastucture into AWS cloudformation
+    This file is for deploy all the infrastucture into AWS cloudformation
 Parameters:
     EnvironmentName:
         Description: an enviroment name
